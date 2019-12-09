@@ -10,9 +10,21 @@ banner:
       is_scrolly: false
       label: strategies
       url: /strategies
+    - is_primary: true
+      is_scrolly: false
+      label: Risk
+      url: /Risk
+    - is_primary: true
+      is_scrolly: false
+      label: Marketing
+      url: /Marketing
+    - is_primary: true
+      is_scrolly: false
+      label: Finance
+      url: /Finance
   bottom_link:
     has_arrow: true
-    is_scrolly: true
+    is_scrolly: false
     label: Learn More
     url: '#one'
   subtitle: >-
